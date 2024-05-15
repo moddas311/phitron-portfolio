@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 1480px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.logo-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #00FFFF;
+}
+
+.list {
+    list-style: none;
+}
+
+.resume {
+    text-decoration: none;
+}
+
+.icon {
+    padding-top: 4px;
+    padding-left: 4px;
+    color: black;
+}
+
+.profile {
+    margin-top: 15px;
+    width: 400px;
+    height: 500px;
+    border-radius: 40px;
+    box-shadow: 10px 7px 20px #00FFFF;;
+}
+
+.title {
+    color: #00FFFF;
+    font-size: 50px;
+    font: bold;
+}
+
+.banner {
+    padding-right: 50px;
+    word-wrap: normal;
+    align-items: center;
+}
+
+.social {
+    color: #00FFFF;
+    padding-top: 12px;
+}
+
+.portfolio {
+    margin-top: 50px;
+    margin: 50px;
+    gap: 40px;
+    border-radius: 15px;
+    border: 2px solid gray;
+}
+
+.project-img {
+    width: 500px;
+    height: 350px;
+    border-radius: 15px;
+}
+
+.technology {
+    margin-top: 90px;
+    margin-left: 40px;
+}
+
+.technology-2 {
+    margin-top: 65px;
+    margin-left: 40px;
+}
+
+.app-title {
+    color: #00FFFF;
+    padding-top: 2px;
+}
+
+.skills {
+    margin: 50px;
+}
+
+.skills-btn {
+    padding-left: 30px;
+}
+
+.education {
+    text-align: center;
+    align-items: center;
+    padding-top: 180px;
+}
+
+.education-title {
+    color: #00FFFF;
+}
+
+.contact-input {
+    width: 250px;
+    margin: 10px;
+    height: 50px;
+    background-color: black;
+    text-align: center;
+}
+
+.contact-msg {
+    width: 250px;
+    margin: 10px;
+    height: 100px;
+    background-color: black;
+    text-align: center;
+}
+
+.contact {
+    height: 320px;
+    width: 600px;
+    border: 2px solid #00FFFF;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.footer-social{
+    margin-right: 20px;
+    margin-left: 20px;
+    color: #00FFFF;
+}
+.footer-social{
+    margin-bottom: 20px;
+}
